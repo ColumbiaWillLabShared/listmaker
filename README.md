@@ -1,2 +1,2 @@
 # listmaker
-Generates a 1D array using np.arange
+Script for generating a 1D array using np.arange
